@@ -1,0 +1,13 @@
+c:\Users\salam\Desktop\windose\Libraries\Cosmos.OpenGL\bin\Release\net10.0\Cosmos.OpenGL.deps.json
+c:\Users\salam\Desktop\windose\Libraries\Cosmos.OpenGL\bin\Release\net10.0\Cosmos.OpenGL.dll
+c:\Users\salam\Desktop\windose\Libraries\Cosmos.OpenGL\bin\Release\net10.0\Cosmos.OpenGL.pdb
+c:\Users\salam\Desktop\windose\Libraries\Cosmos.OpenGL\obj\Release\net10.0\Cosmos.OpenGL.csproj.AssemblyReference.cache
+c:\Users\salam\Desktop\windose\Libraries\Cosmos.OpenGL\obj\Release\net10.0\Cosmos.OpenGL.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\salam\Desktop\windose\Libraries\Cosmos.OpenGL\obj\Release\net10.0\Cosmos.OpenGL.AssemblyInfoInputs.cache
+c:\Users\salam\Desktop\windose\Libraries\Cosmos.OpenGL\obj\Release\net10.0\Cosmos.OpenGL.AssemblyInfo.cs
+c:\Users\salam\Desktop\windose\Libraries\Cosmos.OpenGL\obj\Release\net10.0\Cosmos.OpenGL.csproj.CoreCompileInputs.cache
+c:\Users\salam\Desktop\windose\Libraries\Cosmos.OpenGL\obj\Release\net10.0\Cosmos.OpenGL.sourcelink.json
+c:\Users\salam\Desktop\windose\Libraries\Cosmos.OpenGL\obj\Release\net10.0\Cosmos.OpenGL.dll
+c:\Users\salam\Desktop\windose\Libraries\Cosmos.OpenGL\obj\Release\net10.0\refint\Cosmos.OpenGL.dll
+c:\Users\salam\Desktop\windose\Libraries\Cosmos.OpenGL\obj\Release\net10.0\Cosmos.OpenGL.pdb
+c:\Users\salam\Desktop\windose\Libraries\Cosmos.OpenGL\obj\Release\net10.0\ref\Cosmos.OpenGL.dll

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Cosmos.OpenGL</id>
+    <version>1.0.0</version>
+    <authors>Windose</authors>
+    <readme>README.md</readme>
+    <description>OpenGL 1.x/2.x API implementation for Cosmos OS using Canvas3D hardware acceleration</description>
+    <repository type="git" commit="af67c5e3d0dc7993694ba49ebe4c34163430531f" />
+    <dependencies>
+      <group targetFramework="net10.0">
+        <dependency id="Cosmos.Kernel" version="3.0.97" exclude="Build,Analyzers" />
+        <dependency id="Cosmos.Kernel.System" version="3.0.97" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\salam\Desktop\windose\Libraries\Cosmos.OpenGL\bin\Release\net10.0\Cosmos.OpenGL.dll" target="lib\net10.0\Cosmos.OpenGL.dll" />
+    <file src="C:\Users\salam\Desktop\windose\Libraries\Cosmos.OpenGL\README.md" target="\README.md" />
+  </files>
+</package>

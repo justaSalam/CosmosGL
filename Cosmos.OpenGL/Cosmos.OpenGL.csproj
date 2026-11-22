@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <NoWarn>$(NoWarn);COSMOS0001;COSMOS0003</NoWarn>
+    <RootNamespace>Cosmos.OpenGL</RootNamespace>
+    <AssemblyName>Cosmos.OpenGL</AssemblyName>
+    <PackageId>Cosmos.OpenGL</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Windose</Authors>
+    <Description>OpenGL 1.x/2.x API implementation for Cosmos OS using Canvas3D hardware acceleration</Description>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="README.md" Pack="true" PackagePath="\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Cosmos.Kernel" Version="3.0.97" />
+    <PackageReference Include="Cosmos.Kernel.System" Version="3.0.97" />
+  </ItemGroup>
+
+</Project>
