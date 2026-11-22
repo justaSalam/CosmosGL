@@ -5,7 +5,7 @@
 [![Cosmos Kernel](https://img.shields.io/badge/Cosmos-3.0.97-orange.svg)](https://github.com/CosmosOS/Cosmos)
 [![Hardware Acceleration](https://img.shields.io/badge/Hardware%203D-SVGA3D%20%2F%20Canvas3D-green.svg)](https://github.com/CosmosOS/Cosmos)
 
-A fully standalone, exact **OpenGL 1.x / 2.x** immediate-mode rendering library for **Cosmos OS**, powered by hardware-accelerated **`Canvas3D`** (VMware SVGA II / SVGA3D).
+A fully standalone, exact **OpenGL 1.x / 2.x** immediate-mode rendering library for **Cosmos OS**, powered by hardware-accelerated **`Canvas3D`**.
 
 `Cosmos.OpenGL` brings the familiar OpenGL immediate-mode API (`glBegin`, `glEnd`, `glVertex`, `glColor`, `glTranslate`, `glRotate`, `gluPerspective`, `gluLookAt`) to Cosmos C# operating systems. It enables existing legacy OpenGL games, retro 3D graphics engines, and scientific visualizers to run directly on bare-metal.
 
